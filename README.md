@@ -36,7 +36,10 @@ When starting to collect the information about my contracts I also was trying to
 Widget
 ------
 A widget shows the most important information about all your contracts/entrys. You can see upcoming events, upcoming dates, a gant-chart for all your contract-projects, a bar chart with the monthly costs and information about your average and actual payments.
+<img width="344" alt="Bildschirmfoto 2021-04-11 um 17 49 58" src="https://user-images.githubusercontent.com/26939017/115108844-e317ad80-9f72-11eb-9114-5278e0098f2e.png">
+
 Input-Mode with filter
+----------------------
 When you start the app (not in widget mode) you can add or change your contracs. A table gives you an overview about all contracts. You can select one for more details. But you can also filter the table according to any criteria. I find it useful to filter the contracts with respect to the owner. So I can see which kid costs the most 😊. Also useful is to filter according to the entry type: When are the next vaccinations necessary? When do we need new passports?
 
 Templates for the contract details
