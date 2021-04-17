@@ -13,30 +13,34 @@ It manages the appointments of your contracts (notice period, preparation period
 -	Medical examinations
 -	Recertification of qualifications
 -	Lease rental charges and extra costs
+
+Features
+========
+
 The tool has the following features:
 
 Appointment-Management
-======================
+-----------------------
 This is the core competence of the script. A contract has an expiration date and a notice period. To quit the contract in time you may also need preparation time. Think about your cell phone contract. The contract may end Mai 1st . But if you don’t quit 3 months ahead the contract gets extended automatically (typically with a worse price). Just to quit an February 1st doesn’t help too much since you may need preparation time to find a better deal or negotiate with your provider. Let’s say you need two weeks to prepare the quitting.
 Now let the contract manager support you! The script writes the expiration date of your contract into your calendar and creats a task/reminder in your task manager. I use the 2Do-App for the latter since a task within the 2Do-App has a start and a due date. Two weeks before the deadline (expiration date minus notice period) of your cell phone contract the task with pop up in your task manager.
 So the simple feature is to have a task in your reminder app and an event in your calendar for each contract. However, I soon realized that this appointment-management is useful for more objects than just contracts. I also use it to manage the ID-cards, vaccinations, medical examinations and recertification of some licences for the whole family.
 
 Gant-Charts
-===========
+-----------
 To have a better overview about the appointments they are shown within a Gant-chart: To lines on a time axis, the first for the preparation period and the second for the notice period. The Gant chart is shown in the widget with all contract-projects and also for each entry individually
 
 Payment-Management
-==================
+------------------
 When starting to collect the information about my contracts I also was trying to get an overview about the costs. So I also entered the rates and the payment intervals (monthly, each quarter, half-yearly, yearly) into the data base. A bar chart shows the payments for each month a year so you can see an expensive month coming in time and tighten your belt.
 
 Widget
-======
+------
 A widget shows the most important information about all your contracts/entrys. You can see upcoming events, upcoming dates, a gant-chart for all your contract-projects, a bar chart with the monthly costs and information about your average and actual payments.
 Input-Mode with filter
 When you start the app (not in widget mode) you can add or change your contracs. A table gives you an overview about all contracts. You can select one for more details. But you can also filter the table according to any criteria. I find it useful to filter the contracts with respect to the owner. So I can see which kid costs the most 😊. Also useful is to filter according to the entry type: When are the next vaccinations necessary? When do we need new passports?
 
 Templates for the contract details
-==================================
+----------------------------------
 When you enter a new contract/entry you can select the predefined keywords. So you don’t have to type too much. You can easily select the owner from a list, the precise wording in the calendar event and so on. Of course, you can also create your own terms.
 
 Requirements
