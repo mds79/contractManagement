@@ -1,3 +1,4 @@
+![0B7E3B6C-3FB8-4D5D-9B25-FC48DA609D0F](https://user-images.githubusercontent.com/26939017/115108894-2245fe80-9f73-11eb-8155-7d49b6dd785b.jpeg)
 # contractManagement
 A scriptable-app script to manage the appointments and payments of your contracts in your calendar and task manager / todo-list. It comes with a widget and can also be used for insurances, ID-cards, vaccination dates and more.
 
